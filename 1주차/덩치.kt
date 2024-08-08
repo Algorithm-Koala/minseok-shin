@@ -18,7 +18,6 @@ fun main() {
     val bw = BufferedWriter(OutputStreamWriter(System.`out`))
 
     val num = br.readLine().toInt()
-
     var sizeList = mutableListOf<Size>()
 
     for (i in 1..num){
