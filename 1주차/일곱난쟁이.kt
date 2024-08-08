@@ -17,7 +17,6 @@ fun main() {
     }
 
     val sum = mans.sum() -100
-
     var a = 0
     var b = 0
 
